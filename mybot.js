@@ -111,5 +111,5 @@ function helpCommand(arguments, receivedMessage) {
     
 }
 
- client.login("OTEyNzQzMjk2OTY5ODc5NjEy.YZ0Ybw.Oi0E_vX-FBLPO6wGuyx48H4gGSg"); //secret token
+ client.login("XXXXX"); //secret token
 
